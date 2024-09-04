@@ -16,13 +16,13 @@
 .Navbar .Links{
   display: flex;
 }
-.Navbar .Links .one{
+.Navbar .Links .One{
   margin-left: 20px;
   color: black;
   text-decoration: none;
   font-size: 18px;
 }
-.Navbar .Links .one:hover{
+.Navbar .Links .One:hover{
   color: blueviolet;
 }
 Form{
@@ -30,11 +30,11 @@ Form{
   text-align: start;
   margin-top: 50px;
 }
-.Content{
+.Day{
   margin-top: 100px;
   color: blueviolet;
 }
-.Content h1{
+.Day h1{
   font-size: 80px;
   font-weight: 800;
 }
